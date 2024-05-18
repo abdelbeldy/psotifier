@@ -1,2 +1,3 @@
 requests==2.25.0
 eyed3==0.9.7
+Flask==2.1.0
